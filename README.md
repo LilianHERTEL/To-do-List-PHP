@@ -2,8 +2,9 @@
 
 Projet de to-do list en PHP réalisé en deuxième année à l'IUT d'Informatique de l'Université Clermont-Auvergne (UCA).
 
-#### Hector PITEAU
-#### Lilian HERTEL
+#### Auteurs
+Hector PITEAU
+Lilian HERTEL
 Groupe 4
 
 #### Important :
