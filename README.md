@@ -2,15 +2,15 @@
 
 Projet de to-do list en PHP réalisé en deuxième année à l'IUT d'Informatique de l'Université Clermont-Auvergne (UCA).
 
-#### Auteurs
+### Auteurs
 Hector PITEAU
 Lilian HERTEL
 Groupe 4
 
-#### Important :
+### Important :
 Dans notre projet, nous utilisons un .htaccess qui nous permet de rediriger toutes les requêtes sur le fichier index.php.
 
-#### Fonctionnalités supplémentaires :
+### Fonctionnalités supplémentaires :
 Possibilité de créer un compte.
 Possibilité de voir, modifier ses informations de compte (pseudo, mot de passe).
 Possibilité de supprimer son compte.
@@ -20,11 +20,11 @@ Possibilité de passer sa liste privée en publique et inversement.
 Possibilité de glisser une todo d’une liste à une autre.
 Possibilité de changer le titre d’une liste.
 
-#### Pseudo-fonctionnalités :
+### Pseudo-fonctionnalités :
 quand le titre est trop long on peut y accéder avec un tooltip.
 On peut visualiser ses listes privées avec un badge en haut de cette dernière.
 
-#### Répartition des tâches :
+### Répartition des tâches :
 
 ##### Lilian :
 * visualisation des listes privées
