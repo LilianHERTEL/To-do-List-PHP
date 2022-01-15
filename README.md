@@ -1,13 +1,15 @@
-#Projet de Todo List en PHP
+# Projet de Todo List en PHP
 
-####Hector PITEAU
-####Lilian HERTEL
+Projet de to-do list en PHP réalisé en deuxième année à l'IUT d'Informatique de l'Université Clermont-Auvergne (UCA).
+
+#### Hector PITEAU
+#### Lilian HERTEL
 Groupe 4
 
-####Important :
+#### Important :
 Dans notre projet, nous utilisons un .htaccess qui nous permet de rediriger toutes les requêtes sur le fichier index.php.
 
-####Fonctionnalités supplémentaires :
+#### Fonctionnalités supplémentaires :
 Possibilité de créer un compte.
 Possibilité de voir, modifier ses informations de compte (pseudo, mot de passe).
 Possibilité de supprimer son compte.
@@ -17,13 +19,13 @@ Possibilité de passer sa liste privée en publique et inversement.
 Possibilité de glisser une todo d’une liste à une autre.
 Possibilité de changer le titre d’une liste.
 
-####Pseudo-fonctionnalités :
+#### Pseudo-fonctionnalités :
 quand le titre est trop long on peut y accéder avec un tooltip.
 On peut visualiser ses listes privées avec un badge en haut de cette dernière.
 
-####Répartition des tâches :
+#### Répartition des tâches :
 
-#####Lilian :
+##### Lilian :
 * visualisation des listes privées
 * passer une liste publique/privée une liste, ajout d’un badge en haut des listes d’un user pour indiquer si liste privée ou publique
 * user gateway créée, ensuite modifiée par nous deux
@@ -33,7 +35,7 @@ On peut visualiser ses listes privées avec un badge en haut de cette dernière.
 * possibilité de se connecter à un compte admin, et la partie admin associée (modèles, gateway logs, triggers dans la base de données, gestion de l’affichage sur la page admin)
 * pagination des TodoListes
 
-#####Hector :
+##### Hector :
 * gestion des comptes : créer un compte, voir les infos du compte et les modifier, supprimer son compte
 * le front controller 
 * gestion des routes avec le front controller
